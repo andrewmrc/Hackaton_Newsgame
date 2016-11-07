@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/Scena_Prova.unity
+  isLoaded: 1
+  isActive: 1
